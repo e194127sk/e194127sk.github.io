@@ -1,0 +1,56 @@
+h1{
+    color:hotpink;
+    font-size: 50px;
+    font-family:"Impact";
+    text-align:center;
+    background-color:greenyellow;
+}
+table{
+    color:purple;
+     background-color:springgreen;
+     font-size: 20px;
+    
+}
+h2{
+    font-size: 40px;
+    color:tomato;
+    text-align:center;
+        background-color:greenyellow; 
+}
+h3{
+      font-size: 40px;
+    text-align:center;
+        color:tomato;
+          background-color:greenyellow; 
+    
+    
+    
+    
+} 
+ol{
+   
+
+    background-image: url("karameru.png");
+    background-image: repeat;
+    background-attachment: fixed;
+    background-position: bottom left;   
+      font-size: 20px;
+    color:purple
+        
+   
+        
+        
+}
+p{
+      font-size: 20px;
+     text-align:center;
+    color:tomato;
+    font-Weight:bold;
+}
+body{
+    background-image: url("../images/inatyuu3.jpg");
+    background-image: repeat;
+    background-attachment: fixed;
+    background-position: bottom left;
+   
+}
