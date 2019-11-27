@@ -1,0 +1,49 @@
+h1{
+         font-size: 40px;
+     text-align:center;
+    color:palevioletred;
+    font-Weight:bold;
+    background-color:aqua;
+}
+
+
+h2.fate{
+    font-size: 30px;
+    color:tomato;
+    text-align:center;
+        background-color:greenyellow; 
+    
+    
+    
+} 
+
+   
+h2.link{
+    font-size: 30px;
+    color:fuchsia;
+    text-align:center;
+        background-color:orange; 
+    
+    
+    
+} 
+h2.MGS{ font-size: 30px;
+    color:fuchsia;
+    text-align:center;
+        background-color:orange; }
+        
+        
+}
+p.mozi{
+    color:aqua
+}
+body{
+    background-image: url("../images/MGS5.png");
+    background-image: repeat;
+    background-attachment: fixed;
+    background-position: bottom left;
+    font-size: 20px;
+    font-Weight:bold;
+    color:blue
+   
+}
