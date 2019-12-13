@@ -1,0 +1,94 @@
+div.top{
+    width: 1000px;
+    height:40px;
+    background-color: antiquewhite;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+
+div.middle{
+    width:1000px;
+    height:320px;
+    background-color: aqua;
+    margin: :10px 0px;
+    font-size: 0;
+
+}
+
+
+div.bottom{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    
+    
+
+}
+
+div.left{
+    width: 250px;
+    height:320px;
+    background-color: beige;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 40px;  
+}
+div.menyui1{
+    width:250px;
+    height:100px;
+    background-color: coral;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    
+}
+div.menyui2{
+    width:250px;
+    height:100px;
+    background-color: coral;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    
+}
+div.menyui3{
+    width:250px;
+    height:100px;
+    background-color: coral;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    
+}
+
+
+
+div.right{
+    width:700px;
+    height:320px;
+    background-color: bisque;
+    display: inline-block;
+    vertical-align: top;
+    margin:0px;
+    font-size:40px;
+    
+}
+div.gazou{
+    width:700px;
+    height:300px;
+    background-color: chartreuse;   
+}
+div.bunnsyou{
+    width:700px;
+    height:20px;
+    background-color: darkorchid;
+    font-size:15px;
+    
+}
