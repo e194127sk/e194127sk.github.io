@@ -1,0 +1,133 @@
+div.title{
+    width:1000px;
+    height:50px;
+    background-color: palevioletred;
+    background-attachment: scroll;
+   font-family:"HG行書体";
+    font-size: 50px;
+    margin-bottom: 5px;
+    background-image: url("../images/FF2.png");
+   
+
+    
+}
+span.menuitem{
+    display: inline-block;
+    width:230px;
+    height:40px;
+    background-image: url("../images/bagabonndo2.png");  
+    background-color: rgba(255,100,200,0.50);
+     border : 5px solid palevioletred;
+    text-align: center;
+    font-size: 35px;
+    font-family:"HG行書体";
+}
+
+div.footer{
+    width:1000px;
+    height:50px;
+    background-color: blueviolet;
+    font-size:30px;
+    font-family: "Impact";
+}
+
+div.menu{
+    width:1000px;
+    margin: 0px auto;
+    margin-bottom: 30px;
+}
+
+
+body{
+    background-image: url("../images/sakura.png");
+    *--background-image: repeat--*;
+    background-attachment: fixed;
+    background-position: bottom left;
+   
+}
+div.middle{
+   width:1000px;
+    height:500px;
+   vertical-align: top;
+    font-size:0;
+    margin:0px auto;
+    background-color: rgba(150,250,10,0.50);
+    margin-bottom: 20px;
+}
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+    background-color:rgba(200,100,50,0.50)
+}
+div.left{
+    width:490px;
+    height:500px;
+    background-color:rgba(255,100,140,0.50);
+    display: inline-block;
+    margin-right: 20px;
+    font-size:10px;
+    
+    
+    
+}
+div.sabu{
+    width:490px;
+    height:40px;
+    background-color: rgba(255,255,10,0.50);
+    text-align: center;
+    font-size:40px;
+    font-family:"HG行書体";
+}
+
+div.poemu{
+    width:490px;
+    height:40px;
+    
+    text-align: center;
+    font-size:40px;
+    font-family:"HG行書体";
+   
+    
+}
+div.right{
+    width:490px;
+    height:500px;
+    background-color: rgba(255,100,150,0.50);
+    display:inline-block;
+    vertical-align: top;
+    
+}
+
+div.bottom{
+    width:1000px;
+    height:100px;
+    background-color: rgba(100,150,0,0.50);
+      vertical-align: top;
+    font-size:0;
+    margin:0px auto;
+}
+
+div.left2{
+    width:400px;
+    height:100px;
+    background-color: rgba(200,50,100,0.50);
+    display:inline-block;
+    font-size: 20px;
+    font-family:'HG正楷書体-PRO';
+}
+
+div.center{
+    width:200px;
+    height:100px;
+    display:inline-block;
+}
+
+div.right2{
+    width:400px;
+    height:100px;
+    background-color: rgba(200,50,100,0.50);
+    display:inline-block;
+    font-size: 20px;
+     font-family:'HG正楷書体-PRO';
+}
+

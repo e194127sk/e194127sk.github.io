@@ -1,0 +1,139 @@
+div.title{
+    width:1000px;
+    height:50px;
+    background-color: palevioletred;
+    background-attachment: scroll;
+  font-family:"HG行書体";
+    font-size: 50px;
+    margin-bottom: 5px;
+    background-image: url("../images/FF2.png");
+   
+
+    
+}
+span.menuitem{
+    display: inline-block;
+    width:230px;
+    height:40px;
+    background-image: url("../images/bagabonndo2.png");  
+    background-color: rgba(255,100,200,0.50);
+     border : 5px solid palevioletred;
+    text-align: center;
+    font-size: 35px;
+    font-family:"HG行書体";
+}
+
+div.footer{
+    width:1000px;
+    height:50px;
+    background-color: blueviolet;
+    font-size:30px;
+    font-family: "Impact";
+}
+
+div.menu{
+    width:1000px;
+    margin: 0px auto;
+    margin-bottom: 30px;
+}
+
+
+body{
+    background-image: url("../images/sakura.png");
+    *--background-image: repeat--*;
+    background-attachment: fixed;
+    background-position: bottom left;
+   
+}
+
+div.wrap{
+    width:1000px;
+    
+    margin:0px auto;
+    background-color:rgba(200,100,50,0.50)
+}
+
+div.dai{
+    width:1000px;
+    height:50px;
+    background-color: rgba(200,100,50,0.50);
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:40px;
+    font-family: 'HGP行書体'
+}
+
+div.middle{
+    width:1000px;
+    height:700px;
+    background-color:rgba(250,130,30,0.25);
+}
+
+div.up{
+    width:1000px;
+    height:300px;
+    background-color: rgba(50,70,150,0.50);
+    font-size:0;
+    margin-bottom: 30px;
+    display: inline-block;
+    vertical-align: top;
+     font-size:30px;
+}
+
+div.down{
+    width:1000px;
+    height:292px;
+    background-color: rgba(50,70,150,0.50);
+    font-size:30px;
+    font-size:0;
+    vertical-align: top;
+}
+
+div.images1{
+    width:214px;
+    height:300px;
+    background-color: aqua;
+    display: inline-block;
+}
+div.syousai1{
+width:775px;
+height:300px;
+display: inline-block;
+vertical-align: top;
+    text-align: center;
+    background-color: rgba(250,100,100,0.50);
+    font-family: cursive;
+    font-size:46px;
+}
+div.images2{
+    width:208px;
+    height:292px;
+    background-color: aqua;
+    text-align: center;
+    display: inline-block;
+}
+div.syousai2{
+width:792px;
+height:293px;
+display: inline-block;
+vertical-align: top;
+    text-align: center;
+    background-color: rgba(250,100,100,0.50);
+    font-family: cursive;
+    font-size:35px;
+}
+p{text-align: left;
+  font-size:19px;
+　 font-family:inherit;
+  }
+div.hurenndo{
+    width:1000px;
+    height:60px;
+    background-color: rgba(100,50,130,0.50);
+    text-align: center;
+    font-size:40px;
+    font-family: serif
+}
+
+
+

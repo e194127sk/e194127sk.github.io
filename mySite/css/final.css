@@ -1,0 +1,216 @@
+
+    body {
+
+      font-family: 'Bitter', serif;
+      text-align: center;
+        position: relative;
+        height: 0px;
+        width:-0px;
+    }
+    .holder,
+    .first,
+    .second,
+    .third {
+      height: 100vh;
+      width: 100vw;
+    }
+    .first,
+    .second,
+    .third {
+      position: absolute;
+    }
+    .second,
+    .third {
+      opacity: 0;
+    }
+    .holder {
+      height: 100vh;
+      position: relative;
+      z-index: 1;
+    }
+    .first {
+      animation: first 10s infinite;
+      background: linear-gradient(#5ff8ca, #60e08c);
+         background-position: bottom left;
+        background-attachment: fixed;
+      z-index: 10;
+    }
+      @keyframes first {
+        0% {opacity: 1.0;  }
+        10% {opacity: 0.8;}
+        20% {opacity: 0.6;}
+        30% {opacity: 0.4;}
+        40% {opacity: 0.2;}
+        50% {opacity: 0.1;}
+        60% {opacity: 0.2;}
+        70% {opacity: 0.4;}
+        80% {opacity: 0.6;}
+        90% {opacity: 0.8;}
+        100% {opacity: 1.0;}
+      }
+
+    .second {
+      animation: second 10s infinite; animation-delay: 1s;
+    
+      background: linear-gradient(#19eaa6, #00a1f0);
+         background-position: bottom left;
+        background-attachment: fixed;
+        
+      z-index: 20;
+    }
+      @keyframes second {
+        0% {opacity: 0; }
+        10% {opacity: 0.2;}
+        20% {opacity: 0.4;}
+        30% {opacity: 0.6;}
+        40% {opacity: 0.8;}
+        50% {opacity: 1.0;}
+        60% {opacity: 0.8;}
+        70% {opacity: 0.6;}
+        80% {opacity: 0.4;}
+        90% {opacity: 0.2;}
+        100% {opacity: 0;}
+      }
+
+    .third {
+      animation: third 10s infinite;
+      animation-delay: 5s;
+
+      background: linear-gradient(#aab7f8, #ff75c6);
+        background-position: bottom left;
+        background-attachment: fixed;
+      z-index: 30;
+    }
+      @keyframes third {
+        0% {opacity: 0;}
+        10% {opacity: 0.2;}
+        20% {opacity: 0.4;}
+        30% {opacity: 0.6;}
+        40% {opacity: 0.8;}
+        50% {opacity: 1.0;}
+        60% {opacity: 0.8;}
+        70% {opacity: 0.6;}
+        80% {opacity: 0.4;}
+        90% {opacity: 0.2;}
+        100% {opacity: 0;}
+      }
+
+    .txt {
+     
+      position: absolute;
+      width: 100%;
+      z-index: 1000;
+    }
+    h1 {
+      font-size: 40px;
+      font-weight: 400;
+      margin: 0;
+    }
+    p {
+      font-size: 20px;
+      margin-top: 26px;
+    }
+
+div.top{
+    width: 1000px;
+    height:40px;
+    background-color: antiquewhite;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+
+div.middle{
+    width:1000px;
+    height:320px;
+    position: absolute;
+    margin: :10px 0px;
+    font-size: 0;
+
+}
+
+
+div.bottom{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    
+    
+
+}
+
+div.left{
+    width: 250px;
+    height:320px;
+    
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 40px;  
+}
+div.menyui1{
+    width:250px;
+    height:100px;
+    background-color: coral;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    
+}
+div.menyui2{
+    width:250px;
+    height:100px;
+    background-color: coral;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    
+}
+div.menyui3{
+    width:250px;
+    height:100px;
+    background-color: coral;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+    
+}
+
+
+
+div.right{
+    width:700px;
+    height:320px;
+    background-color: bisque;
+    display: inline-block;
+    vertical-align: top;
+    margin:0px;
+    font-size:40px;
+    
+}
+div.gazou{
+    width:700px;
+    height:300px;
+    background-color: chartreuse;   
+}
+div.bunnsyou{
+    width:700px;
+    height:20px;
+    background-color: darkorchid;
+    font-size:15px;
+    
+}
+
+.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+
+
+
+Resources

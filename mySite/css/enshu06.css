@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-size: 15;
+    font-Weight:15;
+    font-family:"Impact";
+    text-align:center;
+    background-color: aqua;
+}
+body{
+    background-image: url("../images/inatyuu.jpg")
+    background-image: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
