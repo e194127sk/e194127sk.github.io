@@ -1,0 +1,117 @@
+div.title{
+    width:1000px;
+    height:50px;
+    background-color: palevioletred;
+    background-attachment: scroll;
+      font-family:"HG行書体";
+    font-size: 50px;
+    margin-bottom: 5px;
+    background-image: url("../images/FF2.png");
+   
+
+    
+}
+span.menuitem{
+    display: inline-block;
+    width:230px;
+    height:40px;
+    background-image: url("../images/bagabonndo2.png");  
+    background-color: rgba(255,100,200,0.50);
+     border : 5px solid palevioletred;
+    text-align: center;
+    font-size: 35px;
+    font-family:"HG行書体";
+}
+span.images1{
+    display: inline-block;
+    width:329px;
+    height:206px;
+    background-color: darkslateblue;
+    background-color:rgba(200,250,100,0.50);
+    vertical-align: top;
+
+    
+    
+}
+span.images3{
+    display: inline-block;
+    width:386px;
+    height:206px;
+    background-color: darkslateblue;
+    background-color:rgba(200,250,100,0.50);
+    vertical-align: top;
+
+}
+div.ooamana{
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+    font-family:cursive
+    
+    
+}
+h2{
+
+    text-align: center;
+font-family:monospace;
+color: darkslateblue;}
+
+h3{
+    font-family:Impact;
+color: darkslateblue;}
+}
+p{
+    display: inline-block;
+    width:300px;
+    height:200px;
+    background-color: antiquewhite;
+}
+div.footer{
+    width:1000px;
+    height:50px;
+    background-color: blueviolet;
+    font-size:30px;
+    font-family: "Impact";
+}
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+    background-color: rgba(200,100,50,0.50)
+}
+div.menu{
+    width:1000px;
+    margin: 0px auto;
+    margin-bottom: 30px;
+}
+div.down{
+    width:1000px;
+    
+}
+div.right{
+    
+     width: 990px;
+    height:320px;
+    background-color: beige;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 30px;  
+     border : 5px solid palevioletred;
+       background-image: url("../images/MGS6.png");  
+    
+ 
+}
+
+div.bottom{
+    width:1000px;
+  
+}
+
+body{
+    background-image: url("../images/sakura.png");
+    *--background-image: repeat--*;
+    background-attachment: fixed;
+    background-position: bottom left;
+   
+}

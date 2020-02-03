@@ -24,9 +24,19 @@ p{
     font-Weight:bold;
 }
 body{
-    background-image: url("../images/inatyuu3.jpg");
+    background-image: url("../images/number01.jpg");
+
     background-image: repeat;
     background-attachment: fixed;
     background-position: bottom left;
    
 }
+
+.video-wrap {
+  position: relative;
+}
+
+
+
+
+
